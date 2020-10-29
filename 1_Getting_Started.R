@@ -81,7 +81,7 @@
   resultCool <- 2 + 3
     print(c("The result of 2 + 3 is ", resultCool, "cool"))
   
-#There is a couple of things to notice here. 
+#There are a couple of things to notice here. 
 
 #First if you look up in our environments pane you can see that our object is now being listed in it. In R, an environment is a workspace and you can store objects and data in your Environment.
     
