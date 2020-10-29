@@ -85,7 +85,7 @@
 
 #First if you look up in our environments pane you can see that our object is now being listed in it. In R, an environment is a workspace and you can store objects and data. You can also save your workspace so you can call it up when you load RStudio again.
     
-#Second, did you see how we combined multiple functions in this example. We did things using c and the comma. This tell R to combine the three elements and the comma tells it how to seperate them.
+#Second, did you see how we combined multiple functions in this example. We did things using c and the comma. This tell R to combine the three elements and the comma tells it how to separate them.
     
 #Third, whenever you are using characters that you do not want to use for calculations (strings), you need to put them in quotations. This tells R that it is a string. 
     
