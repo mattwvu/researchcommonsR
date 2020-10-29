@@ -18,6 +18,8 @@
     # Copy and Paste in the following (You cannot use Ctrl + Enter in the Bash shell. You also cannot use Ctrl + V to paste so you will need to right-click with your mouse or CMD + Click)
     
           git clone "https://github.com/mattwvu/researchcommonsR.git"
+          setwd("~/R/researchcommonsR")
+            
     
 #Now the files should be available. Let's open up our first script. In the menu click on File > Open File and choose 1_Getting_Started. You can alternatively choose it from the Files pane on the bottom right.
   
