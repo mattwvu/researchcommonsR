@@ -70,7 +70,7 @@
   
   #When you name an object there are conventions to follow
     #1 Start with lowercase
-    #2 Use letters, numbers, punction, and underscores
+    #2 Use letters, numbers, punctuation, and underscores
       # Example 1 -  longer.name
       # Example 2 - longer_name
       # Example 3 - longerName
