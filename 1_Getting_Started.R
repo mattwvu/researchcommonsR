@@ -112,7 +112,7 @@
       
       library(tidyverse) #however you do need to call a package, every session you plan on using it
 
-# Okay on to the Vecotrs, Matrices, and Data Frames. Open 2_Vectors_Matrices_Data_Frames using the File Menu of Files pane. 
+# Okay on to the Vectors, Matrices, and Data Frames. Open 2_Vectors_Matrices_Data_Frames using the File Menu of Files pane. 
     
     
     
